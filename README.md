@@ -33,6 +33,7 @@ The following table shows changes that may require corrections to your code.
 
 ## Browser Compatibility
 
+
 | Feature | Browser version | Notes |
 | ------- | ----------------| ----- |
 | AR hit test support | Chrome Canary for the foreseeable future. | Enable the `#webxr` and `#webxr-hit-test` flags under chrome://flags. Requires Android O or later. |
